@@ -18,7 +18,7 @@ tabButtons.forEach((button) => {
 });
 
 
-// ---------- 4. TARJETAS INTERACTIVAS ----------
+// ---------- 4. TARJETAS INTERACTIVAS -----------
 const consideraciones = [
   {
     frente: "🤝 Compromiso",
