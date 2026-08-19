@@ -33,7 +33,7 @@ body {
   * { transition: none !important; animation: none !important; }
 }
 
-/* ---------- VENTANA PRINCIPAL ---------- */
+/* ---------- VENTANA PRINCIPAL ----------- */
 .window {
   max-width: 720px;
   margin: 0 auto;
